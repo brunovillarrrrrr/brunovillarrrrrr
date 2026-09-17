@@ -18,7 +18,7 @@ I build full-stack products — React/TypeScript on the front, whatever the data
 
 ### Featured
 
-**[urbi-ai](https://github.com/brunovillarrrrrr/urbi-ai)** — a real-estate investment analytics prototype built for Mexathon 2025. Interactive map scoring for neighborhoods, an ROI simulator, and a conversational copilot for zone analysis. React 19 + Vite, Tailwind, Mapbox GL, Three.js, Firebase.
+**[urbi-ai](https://github.com/brunovillarrrrrr/urbi-ai)** — a real-estate investment analytics prototype built for Mexathon 2025. Interactive map scoring for neighborhoods, an ROI simulator, and a conversational copilot for zone analysis. React 19 + Vite, Tailwind, Leaflet, Three.js, Firebase.
 
 ### Currently
 
