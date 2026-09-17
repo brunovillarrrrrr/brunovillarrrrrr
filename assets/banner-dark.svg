@@ -1,0 +1,38 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bruno Villarreal, software engineer">
+  <defs>
+    <radialGradient id="glow" cx="18%" cy="20%" r="65%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="45%" stop-color="#22d3ee" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#070b14" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="#070b14"/>
+  <circle cx="220" cy="60" r="220" fill="url(#glow)"/>
+
+  <rect x="48" y="46" width="1104" height="168" rx="20"
+        fill="#ffffff" fill-opacity="0.04"
+        stroke="#ffffff" stroke-opacity="0.10" stroke-width="0.5"/>
+
+  <rect x="48" y="46" width="6" height="168" rx="3" fill="url(#accent)"/>
+
+  <text x="92" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="42" font-weight="600" letter-spacing="-0.5" fill="#f5f7fa">
+    Bruno Villarreal
+  </text>
+  <text x="92" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="19" font-weight="400" fill="#9aa7b8">
+    Software engineer &#8212; building products end to end, from data to interface
+  </text>
+  <text x="92" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="15" font-weight="400" fill="#7c8ba0" letter-spacing="0.3">
+    brunovillarreal.com
+  </text>
+</svg>
