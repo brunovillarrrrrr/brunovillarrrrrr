@@ -12,7 +12,7 @@ I build full-stack products — React/TypeScript on the front, whatever the data
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,rust,aws,bash,postgres,dynamodb&theme=dark" alt="Next.js, TypeScript, Rust, AWS, Bash, PostgreSQL, DynamoDB" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,rust,aws,bash,postgres,dynamodb,docker,terraform&theme=dark" alt="Next.js, TypeScript, Rust, AWS, Bash, PostgreSQL, DynamoDB, Docker, Terraform" />
 
 </div>
 
